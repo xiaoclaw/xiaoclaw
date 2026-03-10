@@ -5,9 +5,8 @@
 * 已测试：Windows 11专业版
 * [下载地址](https://github.com/xiaoclaw/xiaoclaw/releases)
 
-<img width="416" height="221" alt="run" src="https://github.com/user-attachments/assets/b0842a19-eb30-4720-a78f-c6f937968c60" />
-<img width="1502" height="1038" alt="app" src="https://github.com/user-attachments/assets/2f5b8f4d-3d89-4370-b4aa-e27d9cf20096" />
-
+<img width="1502" height="1038" alt="manager" src="https://github.com/user-attachments/assets/2f5b8f4d-3d89-4370-b4aa-e27d9cf20096" />
+<img width="1496" height="1132" alt="dashboard" src="https://github.com/user-attachments/assets/8d1c9a46-521a-4b1a-ac56-81ad816dcc02" />
 
 ## 当前版本
 

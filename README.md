@@ -1,4 +1,4 @@
-# 小龙虾
+# <img width="40" height="49" alt="logo" src="https://github.com/xiaoclaw/xiaoclaw/blob/main/logo.png" /> 小龙虾
 
 基于[openclaw-manager](https://github.com/miaoxworld/openclaw-manager/)封装所有依赖（`node`,`openclaw`），解压即可运行（双击run.bat）。
 
